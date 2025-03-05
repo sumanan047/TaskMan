@@ -1,0 +1,3 @@
+/Users/sudofr/Documents/Projects/Coding/TaskMan/build/CMakeFiles/TaskMan.dir
+/Users/sudofr/Documents/Projects/Coding/TaskMan/build/CMakeFiles/edit_cache.dir
+/Users/sudofr/Documents/Projects/Coding/TaskMan/build/CMakeFiles/rebuild_cache.dir
