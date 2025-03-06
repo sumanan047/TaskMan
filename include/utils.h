@@ -7,5 +7,4 @@ void addStringToArray(char* string, char** array, int size);
 // prints the taskman when the program starts
 void print_taskman();
 
-
 #endif // UTILS_H
